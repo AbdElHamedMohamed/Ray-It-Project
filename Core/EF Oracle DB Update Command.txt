@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source =(DESCRIPTION =(ADDRESS = (PROTOCOL = TCP)(HOST = 136.243.48.163)(PORT = 1521))(CONNECT_DATA =(SERVER = DEDICATED)(SERVICE_NAME = raydb)));User Id=RAY_PHARMA;Password=ray;" Oracle.EntityFrameworkCore -OutputDir Models
